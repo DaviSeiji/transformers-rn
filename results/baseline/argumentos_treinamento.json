@@ -1,7 +1,7 @@
 {
-  "output_dir": "c:\\Users\\davis\\Documents\\vscode\\redesNeuraisUC\\transformers-rn\\results\\baseline\\checkpoints_sovrsus4",
+  "output_dir": "c:\\Users\\davis\\Documents\\vscode\\redesNeuraisUC\\transformers-rn\\results\\baseline\\checkpoints_gxkx6a6k",
   "per_device_train_batch_size": 16,
-  "num_train_epochs": 3,
+  "num_train_epochs": 5,
   "max_steps": -1,
   "learning_rate": 2e-05,
   "lr_scheduler_type": "constant",

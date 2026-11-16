@@ -1,0 +1,51 @@
+{
+  "sadness": {
+    "precision": 0.4788583509513742,
+    "recall": 0.8236363636363636,
+    "f1-score": 0.6056149732620321,
+    "support": 550.0
+  },
+  "joy": {
+    "precision": 0.6218302094818081,
+    "recall": 0.8011363636363636,
+    "f1-score": 0.7001862197392924,
+    "support": 704.0
+  },
+  "love": {
+    "precision": 1.0,
+    "recall": 0.011235955056179775,
+    "f1-score": 0.022222222222222223,
+    "support": 178.0
+  },
+  "anger": {
+    "precision": 0.55,
+    "recall": 0.16,
+    "f1-score": 0.24788732394366197,
+    "support": 275.0
+  },
+  "fear": {
+    "precision": 0.4461538461538462,
+    "recall": 0.13679245283018868,
+    "f1-score": 0.20938628158844766,
+    "support": 212.0
+  },
+  "surprise": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 81.0
+  },
+  "accuracy": 0.546,
+  "macro avg": {
+    "precision": 0.5161404010978381,
+    "recall": 0.32213352252651595,
+    "f1-score": 0.29754950345927605,
+    "support": 2000.0
+  },
+  "weighted avg": {
+    "precision": 0.562487587941532,
+    "recall": 0.546,
+    "f1-score": 0.47126689766369645,
+    "support": 2000.0
+  }
+}

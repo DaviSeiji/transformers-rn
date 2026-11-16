@@ -1,6 +1,6 @@
 {
   "criterio": "Macro F1 na validação",
-  "valor": 0.9139753653673082,
-  "checkpoint_origem": "checkpoint-3000",
-  "modelo_preservado": "results\\baseline\\melhor_modelo"
+  "f1_macro": 0.9152684148299453,
+  "epoca_selecionada": 4.0,
+  "epocas_executadas": 5.0
 }

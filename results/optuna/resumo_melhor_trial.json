@@ -1,0 +1,13 @@
+{
+  "trial": 0,
+  "estado": "COMPLETE",
+  "metrica": "Macro F1 na validação",
+  "f1_macro_validacao": 0.9206384163885275,
+  "hiperparametros": {
+    "learning_rate": 1.827226177606625e-05,
+    "batch_size": 16,
+    "weight_decay": 0.05986584841970366,
+    "warmup_ratio": 0.015601864044243652
+  },
+  "epoca_selecionada": 4.0
+}

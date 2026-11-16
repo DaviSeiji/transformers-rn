@@ -1,0 +1,167 @@
+[
+  {
+    "trial": 0,
+    "estado": "COMPLETE",
+    "f1_macro": 0.9206384163885275,
+    "duracao_segundos": 367.899891,
+    "learning_rate": 1.827226177606625e-05,
+    "batch_size": 16,
+    "weight_decay": 0.05986584841970366,
+    "warmup_ratio": 0.015601864044243652,
+    "epoca_selecionada": 4.0
+  },
+  {
+    "trial": 1,
+    "estado": "COMPLETE",
+    "f1_macro": 0.9146657257976535,
+    "duracao_segundos": 289.025259,
+    "learning_rate": 1.2853916978930139e-05,
+    "batch_size": 32,
+    "weight_decay": 0.06011150117432088,
+    "warmup_ratio": 0.07080725777960455,
+    "epoca_selecionada": 3.0
+  },
+  {
+    "trial": 2,
+    "estado": "COMPLETE",
+    "f1_macro": 0.9150285825840813,
+    "duracao_segundos": 357.738359,
+    "learning_rate": 1.0336843570697396e-05,
+    "batch_size": 16,
+    "weight_decay": 0.021233911067827616,
+    "warmup_ratio": 0.018182496720710064,
+    "epoca_selecionada": 4.0
+  },
+  {
+    "trial": 3,
+    "estado": "COMPLETE",
+    "f1_macro": 0.9151127251579564,
+    "duracao_segundos": 289.065495,
+    "learning_rate": 1.34336568680343e-05,
+    "batch_size": 32,
+    "weight_decay": 0.04319450186421158,
+    "warmup_ratio": 0.029122914019804193,
+    "epoca_selecionada": 3.0
+  },
+  {
+    "trial": 4,
+    "estado": "COMPLETE",
+    "f1_macro": 0.9186557217476858,
+    "duracao_segundos": 282.519418,
+    "learning_rate": 2.6771137242145903e-05,
+    "batch_size": 32,
+    "weight_decay": 0.03663618432936917,
+    "warmup_ratio": 0.0456069984217036,
+    "epoca_selecionada": 4.0
+  },
+  {
+    "trial": 5,
+    "estado": "PRUNED",
+    "f1_macro": 0.9133093696589593,
+    "duracao_segundos": 168.783815,
+    "learning_rate": 3.538461259525519e-05,
+    "batch_size": 32,
+    "weight_decay": 0.05924145688620425,
+    "warmup_ratio": 0.0046450412719997725,
+    "epoca_selecionada": 3
+  },
+  {
+    "trial": 6,
+    "estado": "COMPLETE",
+    "f1_macro": 0.9172473458853933,
+    "duracao_segundos": 368.850416,
+    "learning_rate": 2.658616083788978e-05,
+    "batch_size": 16,
+    "weight_decay": 0.09488855372533334,
+    "warmup_ratio": 0.09656320330745594,
+    "epoca_selecionada": 4.0
+  },
+  {
+    "trial": 7,
+    "estado": "PRUNED",
+    "f1_macro": 0.9066071990682144,
+    "duracao_segundos": 211.671047,
+    "learning_rate": 3.67320780046205e-05,
+    "batch_size": 16,
+    "weight_decay": 0.0684233026512157,
+    "warmup_ratio": 0.04401524937396013,
+    "epoca_selecionada": 2
+  },
+  {
+    "trial": 8,
+    "estado": "PRUNED",
+    "f1_macro": 0.9130360948665283,
+    "duracao_segundos": 208.11599,
+    "learning_rate": 1.2170293883738781e-05,
+    "batch_size": 16,
+    "weight_decay": 0.0909320402078782,
+    "warmup_ratio": 0.02587799816000169,
+    "epoca_selecionada": 3
+  },
+  {
+    "trial": 9,
+    "estado": "PRUNED",
+    "f1_macro": 0.9141429611175963,
+    "duracao_segundos": 156.687729,
+    "learning_rate": 2.9045790726652738e-05,
+    "batch_size": 32,
+    "weight_decay": 0.054671027934327966,
+    "warmup_ratio": 0.018485445552552705,
+    "epoca_selecionada": 3
+  },
+  {
+    "trial": 10,
+    "estado": "COMPLETE",
+    "f1_macro": 0.9177515066075359,
+    "duracao_segundos": 322.243411,
+    "learning_rate": 1.9417603656079978e-05,
+    "batch_size": 16,
+    "weight_decay": 0.0007547319316293238,
+    "warmup_ratio": 0.09322903419117873,
+    "epoca_selecionada": 3.0
+  },
+  {
+    "trial": 11,
+    "estado": "PRUNED",
+    "f1_macro": 0.9130607313348462,
+    "duracao_segundos": 155.100075,
+    "learning_rate": 1.8951222468483338e-05,
+    "batch_size": 32,
+    "weight_decay": 0.03448259914952475,
+    "warmup_ratio": 0.04917533899079991,
+    "epoca_selecionada": 3
+  },
+  {
+    "trial": 12,
+    "estado": "PRUNED",
+    "f1_macro": 0.9163626405427959,
+    "duracao_segundos": 191.196593,
+    "learning_rate": 2.1190670630778183e-05,
+    "batch_size": 16,
+    "weight_decay": 0.07728901747553503,
+    "warmup_ratio": 0.05585247307792903,
+    "epoca_selecionada": 3
+  },
+  {
+    "trial": 13,
+    "estado": "COMPLETE",
+    "f1_macro": 0.9200131894063458,
+    "duracao_segundos": 261.39443,
+    "learning_rate": 2.5933650402113373e-05,
+    "batch_size": 32,
+    "weight_decay": 0.026227137881335388,
+    "warmup_ratio": 0.06439660449361295,
+    "epoca_selecionada": 3.0
+  },
+  {
+    "trial": 14,
+    "estado": "PRUNED",
+    "f1_macro": 0.911171055024092,
+    "duracao_segundos": 191.580219,
+    "learning_rate": 4.759690085646277e-05,
+    "batch_size": 16,
+    "weight_decay": 0.018101531810365855,
+    "warmup_ratio": 0.06948434797050468,
+    "epoca_selecionada": 3
+  }
+]

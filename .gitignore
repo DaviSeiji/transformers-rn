@@ -1,1 +1,6 @@
 /results/baseline/melhor_modelo/
+
+/results/**/melhor_modelo/
+/results/**/checkpoints_*/
+/results/**/estudo.sqlite3-shm
+/results/**/estudo.sqlite3-wal

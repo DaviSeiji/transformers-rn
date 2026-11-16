@@ -1,0 +1,11 @@
+{
+  "divisao": "validation",
+  "loss": 0.16560345888137817,
+  "accuracy": 0.9415,
+  "precision_macro": 0.9172095636825683,
+  "recall_macro": 0.9200384273247791,
+  "f1_macro": 0.9177515066075359,
+  "precision_weighted": 0.942010173115621,
+  "recall_weighted": 0.9415,
+  "f1_weighted": 0.9414212778697487
+}

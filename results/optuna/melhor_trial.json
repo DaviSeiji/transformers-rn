@@ -1,0 +1,17 @@
+{
+  "trial": 0,
+  "f1_macro_validacao": 0.9206384163885275,
+  "epoca_selecionada_trial": 4.0,
+  "hiperparametros": {
+    "modelo": "distilbert-base-uncased",
+    "learning_rate": 1.827226177606625e-05,
+    "batch_size": 16,
+    "epocas": 5,
+    "weight_decay": 0.05986584841970366,
+    "max_length": 128,
+    "seed": 42,
+    "otimizador": "AdamW",
+    "scheduler": "constant_with_warmup",
+    "warmup_ratio": 0.015601864044243652
+  }
+}

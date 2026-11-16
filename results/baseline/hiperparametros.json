@@ -2,13 +2,13 @@
   "modelo": "distilbert-base-uncased",
   "learning_rate": 2e-05,
   "batch_size": 16,
-  "epocas": 3,
+  "epocas": 5,
   "weight_decay": 0.01,
   "max_length": 128,
   "seed": 42,
   "otimizador": "AdamW",
   "scheduler": "constant",
-  "warmup_steps": 0,
-  "gradient_accumulation_steps": 1,
-  "criterio_melhor_modelo": "f1_macro"
+  "warmup_ratio": 0.0,
+  "encoder_congelado": false,
+  "early_stopping_patience": null
 }
