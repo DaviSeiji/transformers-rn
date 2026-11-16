@@ -1,0 +1,9 @@
+{
+  "sha256_modelo": "a6bf95e3d3ef7c04f0122558bf3ee6b879120c54529ac0e836255c882cbbddfa",
+  "checkpoint": "results\\frozen\\melhor_modelo",
+  "dataset": "dair-ai/emotion",
+  "configuracao": "split",
+  "divisao": "test",
+  "max_length": 128,
+  "exemplos": 2000
+}

@@ -1,0 +1,62 @@
+{
+  "Encoder Congelado × Baseline": {
+    "linhas": [
+      "A acerta",
+      "A erra"
+    ],
+    "colunas": [
+      "B acerta",
+      "B erra"
+    ],
+    "tabela": [
+      [
+        1036,
+        43
+      ],
+      [
+        810,
+        111
+      ]
+    ]
+  },
+  "Encoder Congelado × Optuna": {
+    "linhas": [
+      "A acerta",
+      "A erra"
+    ],
+    "colunas": [
+      "B acerta",
+      "B erra"
+    ],
+    "tabela": [
+      [
+        1026,
+        53
+      ],
+      [
+        820,
+        101
+      ]
+    ]
+  },
+  "Baseline × Optuna": {
+    "linhas": [
+      "A acerta",
+      "A erra"
+    ],
+    "colunas": [
+      "B acerta",
+      "B erra"
+    ],
+    "tabela": [
+      [
+        1821,
+        25
+      ],
+      [
+        25,
+        129
+      ]
+    ]
+  }
+}

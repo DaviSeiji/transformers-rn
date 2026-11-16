@@ -1,0 +1,9 @@
+{
+  "sha256_modelo": "237018b88df6e38070ce55e1ec7039483e0c08b19d06c6c8e3ea93210eb6cb74",
+  "checkpoint": "results\\optuna\\melhor_modelo",
+  "dataset": "dair-ai/emotion",
+  "configuracao": "split",
+  "divisao": "test",
+  "max_length": 128,
+  "exemplos": 2000
+}

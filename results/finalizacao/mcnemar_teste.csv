@@ -1,0 +1,4 @@
+Comparação (A × B),A acerta / B erra,A erra / B acerta,Método,p original,p Holm,"Significativo (α=0,05)"
+Encoder Congelado × Baseline,43,810,Exato (binomial),2.1288682563823015e-184,6.386604769146905e-184,Sim
+Encoder Congelado × Optuna,53,820,Exato (binomial),1.1855663647960828e-177,2.3711327295921657e-177,Sim
+Baseline × Optuna,25,25,Exato (binomial),1.0,1.0,Não
